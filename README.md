@@ -114,7 +114,7 @@ Because: Energy level is very close to your preference
 
 **Screenshot or video** *(optional)*: <!-- Insert a screenshot or demo video link here -->
 <p align="center">
-  <img src="assets/Demo.gif" width="800" alt="Demo">
+  <img src="src/assets/Demo.gif" width="800" alt="Demo">
 </p>
 
 ---
